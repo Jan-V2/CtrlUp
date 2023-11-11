@@ -1,7 +1,7 @@
 
 [
 
-	{"keys": ["alt+up"], "command": "run_multiple_commands",
+	{"keys": ["ctrl+up"], "command": "run_multiple_commands",
 		"args": {
 			"commands":
 			[
@@ -13,7 +13,7 @@
 		}
 	},
 
-	{"keys": ["alt+down"], "command": "run_multiple_commands",
+	{"keys": ["ctrl+down"], "command": "run_multiple_commands",
 		"args": {
 			"commands":
 			[
@@ -24,7 +24,7 @@
 		}
 	},
 
-	{"keys": ["alt+shift+up"], "command": "run_multiple_commands",
+	{"keys": ["ctrl+shift+up"], "command": "run_multiple_commands",
 		"args": {
 			"commands":
 			[
@@ -35,7 +35,7 @@
 		}
 	},
 
-	{"keys": ["alt+shift+down"], "command": "run_multiple_commands",
+	{"keys": ["ctrl+shift+down"], "command": "run_multiple_commands",
 		"args": {
 			"commands":
 			[
